@@ -2,7 +2,6 @@
 
 **BUISNESS PROBLEM:-**
 <br>The problem is posed by Santander group, a financial services company looking for ways to help clients understand their financial health and identify which products and services might help them achieve their monetary goals. The transaction made by a customer is purely on one’s instinct and intuition, here the group is seeking Machine learning solution to help them identify which customer will make a specific transaction in the future, irrespective of the amount of money transacted. This is all to achieve the overall customer satisfaction.
-
 <br>The historical data related to past activity of the consumer can be used for predictive modeling that captures attributes to which may have great influence on future customer activity. This opens up the way for marketing department to come up with new strategies and optimized marketing campaigns, suited to customer needs which in turn enhances their experience. This significantly reduces the customer attrition rate and increases the customer life time value(LTV).
 
 **DATA SET ANALYSIS:-**
