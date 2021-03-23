@@ -7,5 +7,4 @@
 **DATA SET ANALYSIS:-**
 <br>We have two data files- one is for training which contains the binary target column and the other is test data without the target column. Both have 200,000 rows.
 The dataset provided has the same structure as the real data available with the organization. The train dataset contains 200 Numeric feature variables and a binary target column. The features are anonymized and this a high dimensional data set. As features are anonymized, it certainly veils our understanding of the data set which is the first step of solving any problem.
-
 <br>This is a binary classification problem. We have to predict weather a customer will make a transaction or not given a set of variables. Here the main challenge is to deal with anonymized data.
